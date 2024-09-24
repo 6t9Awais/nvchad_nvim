@@ -1,1 +1,0 @@
-# nvchad_nvim
